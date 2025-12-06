@@ -18,5 +18,5 @@ You can clone or fork this repo to create your own automation stack. Contributio
 This is part of the Missouri Node and Project Outlast. Special thanks to Audrey (UI Design + Process Transfer) and Venkata (DevOps Oversight).
 
 ## 📬 Contact
-📩 troy@sugarandleather.ai
+📩 troy@sugarandleather.com
 🌐 https://sugarandleather.ai
